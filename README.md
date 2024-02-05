@@ -4,17 +4,6 @@ Whack-A-Mole Game
 Overview
 Welcome to the Whack-A-Mole Game repository! This simple and entertaining game is a classic whack-a-mole experience where players try to hit the moles as they pop up randomly on the screen. This README file provides essential information to help you understand, set up, and contribute to the project.
 
-Table of Contents
-Features
-Getting Started
-Prerequisites
-Installation
-How to Play
-Project Structure
-Contributing
-License
-Acknowledgments
-Features
 Classic whack-a-mole gameplay.
 Random mole appearances for added challenge.
 Score tracking to keep track of your whacking skills.
@@ -28,7 +17,7 @@ Installation
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/whack-a-mole.git
+git clone https:https://github.com/quamejoshi/Whack-a-mole.git
 Navigate to the project directory:
 bash
 Copy code
@@ -47,11 +36,10 @@ Contributing
 Contributions are welcome! If you have any improvements or new features to suggest, please follow the contribution guidelines.
 
 License
-This project is licensed under the MIT License.
+No lincense.
 
 Acknowledgments
-Thanks to [Name] for the inspiration and guidance.
-Special thanks to [Name] for testing and feedback.
+Thanks to Thinkful and Aaron Bishop for the inspiration and guidance.
 Enjoy playing Whack-A-Mole! If you encounter any issues or have suggestions, feel free to open an issue.
 
 
